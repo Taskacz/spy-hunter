@@ -1,0 +1,9 @@
+*
+!/SDL2-2.0.10
+!/src
+!/.gitignore
+!/cs8x8.bmp
+!/SpyHunter.sln
+!/SpyHunter.vcxproj
+!/SpyHunter.vcxproj.filters
+!/SpyHunter.vcxproj.user
